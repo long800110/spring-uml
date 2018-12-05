@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class
+        name="org.springframework.beans.factory.support.DefaultListableBeanFactory"
+        x="108" y="40">
+        <AttributesDisplayFilter public-accepted="false"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="false" static-accepted="true"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="false" static-accepted="true"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>
